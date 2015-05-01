@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS Dept.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="planets">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+    </string-array>
+
+    <string name="abtus">Department of Computer Science and Engineering was established in the year 1984.
+        The department has well equipped laboratory facilities including OS, DBMS, Computer Graphics, Multimedia, Internet Programming, Entry Level laboratories to provide the practical training to the students.
+        Also, the students are given the opportunity to work in the Network Technology and Network Security Laboratories attached with the TIFAC-CORE in Network Engineering.
+        Highly qualified and experienced faculty with specialization in Data Mining, Image Processing, Software Engineering, Natural language processing, Web Technology, Embedded systems, Evolutionary computing, Network Technology and Distributed Computing are working in the department.
+        The Students are given exposure to latest trends in technology including Embedded system design, Big Data Analytics, Image Processing, Extreme Programming, Software Testing, Sensor Networks, Cloud Computing, Soft Computing etc. through workshops, guest lectures and seminars.
+        Many projects were carried out in association with leading software industries and research laboratories including Naturesoft, Pentasoft, Hexaware, CTS, HCL, Sathyam, IGCAR, CECRI, CLRI, Ramco Systems, Wipro, TCS, Flextronics, etc.</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_dlayout">Dlayout</string>
+    <string name="title_activity_document_upload">DocumentUpload</string>
+    <string name="title_activity_sqlite">SQLite</string>
+    <string name="chooser_title">Lorem ipsum</string>
+    <string name="choose_file">Choose File</string>
+    <string name="title_activity_static_file_upload">StaticFileUpload</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string-array name="tabs">
+        <item>Senior Prof</item>
+        <item>Professors</item>
+        <item>Associate Prof</item>
+        <item>Assistant Prof</item>
+        <item>TAB 6/</item>
+        <item>TAB 7</item>
+    </string-array>
+    <string-array name="prof">
+        <item>1. Dr.K.Kartheeban</item>
+        <item>2. Dr.S.Senthamarai Kannan</item>
+    </string-array>
+    <string-array name="senior">
+        <item>1. Dr.P.Deepalakshmi (Head of the department)</item>
+        <item>2. Dr.S.Radhakrishnan</item>
+        <item>3. Dr.S.Arumugam</item>
+        <item>4. Dr.M.Venkatasulu</item>
+    </string-array>
+    <string-array name="assis">
+        <item>1. Mrs.R.Sumathi</item>
+        <item>2. Mrs.R.Kanniga Devi</item>
+        <item>3. Ms.L.Gandhimadhi</item>
+        <item>4. Mr.M.Raja</item>
+        <item>5. Mr.S.Dhanasekaran</item>
+        <item>6. Mr.D.Balakrishnan</item>
+        <item>7. Mr.M.Rajaguru</item>
+        <item>8. Mr.S.Kailasam</item>
+        <item>9. Mr.A.Saravanan</item>
+        <item>10. Mrs.V.Manoranjithem</item>
+        <item>11. Mr.B.S.Murugan</item>
+        <item>12. Mr.S.Hariharasitharaman</item>
+        <item>13. Mrs.M.Jansirani</item>
+        <item>14. Ms.M.Subbulakshmi</item>
+        <item>15. Mrs.A.Nesarani</item>
+        <item>16. Mrs.J.Jeyaranjini</item>
+        <item>17. Mr.A.Sivanesh Kumar</item>
+        <item>18. Ms.B.Balakiruthiga</item>
+        <item>19. Mr.R.Muniyasamy</item>
+        <item>20. Mr.A.Robert Singh</item>
+        <item>21. Mr.S.Kathirvel</item>
+        <item>22. Ms.T.Saranya Devi</item>
+        <item>23. Ms.G.Girahalakshmi</item>
+        <item>24. Ms.S.Vijayalkashmi</item>
+        <item>25. Mrs.S.Vidhya</item>
+        <item>26. Mr.J.Roy Sebastian</item>
+    </string-array>
+    <string-array name="asso">
+        <item>1. Mrs.R.Murugeswari</item>
+        <item>2. Mrs.P.Ramalakshmi</item>
+        <item>3. Dr.A.Sakthivel</item>
+        <item>4. Mr.S.Sankara Narayanan</item>
+        <item>5. Dr.G.Murugaboopathi</item>
+        <item>6. Mr.B.Pitchaimanickam</item>
+        <item>7. Mrs.P.G.Banupriya</item>
+    </string-array>
+    <string name="title_activity_help">Help</string>
+
+</resources>
